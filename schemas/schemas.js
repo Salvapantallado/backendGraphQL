@@ -79,7 +79,7 @@ export const typeDefs = gql`
 			authorFilter: String
 			publisherFilter: String
 			skip: Int = 0
-			limit: Int = null
+			limit: Int = 10
 		): [Book]
 
 		me: User
