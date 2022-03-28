@@ -1,0 +1,1002 @@
+[
+	{
+		"id": 1,
+		"title": "ut",
+		"ISBN": "803430761-0",
+		"synopsis": "Nam tristique tortor eu pede.",
+		"genres": "felis",
+		"publicationYear": 1987,
+		"authorId": 1,
+		"publisherId": 1
+	},
+	{
+		"id": 2,
+		"title": "nulla",
+		"ISBN": "007334713-2",
+		"synopsis": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+		"genres": "eu",
+		"publicationYear": 2006,
+		"authorId": 2,
+		"publisherId": 2
+	},
+	{
+		"id": 3,
+		"title": "etiam",
+		"ISBN": "929355679-0",
+		"synopsis": "Cras non velit nec nisi vulputate nonummy.",
+		"genres": "vestibulum",
+		"publicationYear": 2013,
+		"authorId": 3,
+		"publisherId": 3
+	},
+	{
+		"id": 4,
+		"title": "ultrices",
+		"ISBN": "760192524-2",
+		"synopsis": "Maecenas pulvinar lobortis est.",
+		"genres": "vestibulum",
+		"publicationYear": 2004,
+		"authorId": 4,
+		"publisherId": 4
+	},
+	{
+		"id": 5,
+		"title": "ut",
+		"ISBN": "921948047-6",
+		"synopsis": "Sed accumsan felis.",
+		"genres": "placerat",
+		"publicationYear": 2012,
+		"authorId": 5,
+		"publisherId": 5
+	},
+	{
+		"id": 6,
+		"title": "augue",
+		"ISBN": "876782784-5",
+		"synopsis": "In quis justo.",
+		"genres": "convallis",
+		"publicationYear": 2020,
+		"authorId": 6,
+		"publisherId": 6
+	},
+	{
+		"id": 7,
+		"title": "ante",
+		"ISBN": "725379764-7",
+		"synopsis": "Vivamus in felis eu sapien cursus vestibulum.",
+		"genres": "lacus",
+		"publicationYear": 2018,
+		"authorId": 7,
+		"publisherId": 7
+	},
+	{
+		"id": 8,
+		"title": "libero",
+		"ISBN": "578874027-4",
+		"synopsis": "Vivamus in felis eu sapien cursus vestibulum.",
+		"genres": "congue",
+		"publicationYear": 1986,
+		"authorId": 8,
+		"publisherId": 8
+	},
+	{
+		"id": 9,
+		"title": "primis",
+		"ISBN": "823827882-1",
+		"synopsis": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+		"genres": "morbi",
+		"publicationYear": 2013,
+		"authorId": 9,
+		"publisherId": 9
+	},
+	{
+		"id": 10,
+		"title": "ut",
+		"ISBN": "543474847-6",
+		"synopsis": "Sed sagittis.",
+		"genres": "vitae",
+		"publicationYear": 1999,
+		"authorId": 10,
+		"publisherId": 10
+	},
+	{
+		"id": 11,
+		"title": "id",
+		"ISBN": "021002629-4",
+		"synopsis": "Proin risus.",
+		"genres": "ipsum",
+		"publicationYear": 1986,
+		"authorId": 11,
+		"publisherId": 11
+	},
+	{
+		"id": 12,
+		"title": "parturient",
+		"ISBN": "573238068-X",
+		"synopsis": "Vivamus vel nulla eget eros elementum pellentesque.",
+		"genres": "in",
+		"publicationYear": 1996,
+		"authorId": 12,
+		"publisherId": 12
+	},
+	{
+		"id": 13,
+		"title": "sem",
+		"ISBN": "647544172-4",
+		"synopsis": "In hac habitasse platea dictumst.",
+		"genres": "quisque",
+		"publicationYear": 2006,
+		"authorId": 13,
+		"publisherId": 13
+	},
+	{
+		"id": 14,
+		"title": "morbi",
+		"ISBN": "201539014-6",
+		"synopsis": "Maecenas pulvinar lobortis est.",
+		"genres": "luctus",
+		"publicationYear": 1996,
+		"authorId": 14,
+		"publisherId": 14
+	},
+	{
+		"id": 15,
+		"title": "duis",
+		"ISBN": "007044313-0",
+		"synopsis": "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+		"genres": "duis",
+		"publicationYear": 1992,
+		"authorId": 15,
+		"publisherId": 15
+	},
+	{
+		"id": 16,
+		"title": "tempus",
+		"ISBN": "527707411-2",
+		"synopsis": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+		"genres": "at",
+		"publicationYear": 2019,
+		"authorId": 16,
+		"publisherId": 16
+	},
+	{
+		"id": 17,
+		"title": "nulla",
+		"ISBN": "214073072-0",
+		"synopsis": "Nulla ac enim.",
+		"genres": "vulputate",
+		"publicationYear": 1985,
+		"authorId": 17,
+		"publisherId": 17
+	},
+	{
+		"id": 18,
+		"title": "dictumst",
+		"ISBN": "058022332-9",
+		"synopsis": "Proin interdum mauris non ligula pellentesque ultrices.",
+		"genres": "nisi",
+		"publicationYear": 1996,
+		"authorId": 18,
+		"publisherId": 18
+	},
+	{
+		"id": 19,
+		"title": "feugiat",
+		"ISBN": "322965235-5",
+		"synopsis": "Etiam pretium iaculis justo.",
+		"genres": "turpis",
+		"publicationYear": 1986,
+		"authorId": 19,
+		"publisherId": 19
+	},
+	{
+		"id": 20,
+		"title": "adipiscing",
+		"ISBN": "321756358-1",
+		"synopsis": "Proin risus.",
+		"genres": "quam",
+		"publicationYear": 2020,
+		"authorId": 20,
+		"publisherId": 20
+	},
+	{
+		"id": 21,
+		"title": "ultrices",
+		"ISBN": "904811725-9",
+		"synopsis": "Praesent id massa id nisl venenatis lacinia.",
+		"genres": "sit",
+		"publicationYear": 2015,
+		"authorId": 21,
+		"publisherId": 21
+	},
+	{
+		"id": 22,
+		"title": "nisl",
+		"ISBN": "078781964-6",
+		"synopsis": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",
+		"genres": "enim",
+		"publicationYear": 1982,
+		"authorId": 22,
+		"publisherId": 22
+	},
+	{
+		"id": 23,
+		"title": "nec",
+		"ISBN": "845350780-5",
+		"synopsis": "Etiam justo.",
+		"genres": "amet",
+		"publicationYear": 2009,
+		"authorId": 23,
+		"publisherId": 23
+	},
+	{
+		"id": 24,
+		"title": "blandit",
+		"ISBN": "907438755-1",
+		"synopsis": "Phasellus id sapien in sapien iaculis congue.",
+		"genres": "sed",
+		"publicationYear": 2016,
+		"authorId": 24,
+		"publisherId": 24
+	},
+	{
+		"id": 25,
+		"title": "praesent",
+		"ISBN": "620153460-1",
+		"synopsis": "Duis at velit eu est congue elementum.",
+		"genres": "dictumst",
+		"publicationYear": 2006,
+		"authorId": 25,
+		"publisherId": 25
+	},
+	{
+		"id": 26,
+		"title": "porta",
+		"ISBN": "660188665-3",
+		"synopsis": "In congue.",
+		"genres": "consectetuer",
+		"publicationYear": 2018,
+		"authorId": 26,
+		"publisherId": 26
+	},
+	{
+		"id": 27,
+		"title": "mauris",
+		"ISBN": "701830564-0",
+		"synopsis": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+		"genres": "orci",
+		"publicationYear": 2008,
+		"authorId": 27,
+		"publisherId": 27
+	},
+	{
+		"id": 28,
+		"title": "mus",
+		"ISBN": "643625263-0",
+		"synopsis": "Nam tristique tortor eu pede.",
+		"genres": "justo",
+		"publicationYear": 2011,
+		"authorId": 28,
+		"publisherId": 28
+	},
+	{
+		"id": 29,
+		"title": "turpis",
+		"ISBN": "226485055-8",
+		"synopsis": "Vestibulum ac est lacinia nisi venenatis tristique.",
+		"genres": "ac",
+		"publicationYear": 2017,
+		"authorId": 29,
+		"publisherId": 29
+	},
+	{
+		"id": 30,
+		"title": "at",
+		"ISBN": "648180372-1",
+		"synopsis": "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",
+		"genres": "vel",
+		"publicationYear": 2002,
+		"authorId": 30,
+		"publisherId": 30
+	},
+	{
+		"id": 31,
+		"title": "nunc",
+		"ISBN": "335509903-1",
+		"synopsis": "Aliquam non mauris.",
+		"genres": "nullam",
+		"publicationYear": 1985,
+		"authorId": 31,
+		"publisherId": 31
+	},
+	{
+		"id": 32,
+		"title": "accumsan",
+		"ISBN": "360378067-1",
+		"synopsis": "Fusce consequat.",
+		"genres": "diam",
+		"publicationYear": 2018,
+		"authorId": 32,
+		"publisherId": 32
+	},
+	{
+		"id": 33,
+		"title": "ut",
+		"ISBN": "612154778-2",
+		"synopsis": "Nulla justo.",
+		"genres": "risus",
+		"publicationYear": 2010,
+		"authorId": 33,
+		"publisherId": 33
+	},
+	{
+		"id": 34,
+		"title": "maecenas",
+		"ISBN": "198235036-9",
+		"synopsis": "Suspendisse potenti.",
+		"genres": "faucibus",
+		"publicationYear": 1995,
+		"authorId": 34,
+		"publisherId": 34
+	},
+	{
+		"id": 35,
+		"title": "sit",
+		"ISBN": "626769224-8",
+		"synopsis": "Curabitur gravida nisi at nibh.",
+		"genres": "faucibus",
+		"publicationYear": 2020,
+		"authorId": 35,
+		"publisherId": 35
+	},
+	{
+		"id": 36,
+		"title": "pede",
+		"ISBN": "754164225-8",
+		"synopsis": "Morbi porttitor lorem id ligula.",
+		"genres": "feugiat",
+		"publicationYear": 2002,
+		"authorId": 36,
+		"publisherId": 36
+	},
+	{
+		"id": 37,
+		"title": "iaculis",
+		"ISBN": "658727145-6",
+		"synopsis": "Maecenas rhoncus aliquam lacus.",
+		"genres": "ultrices",
+		"publicationYear": 2001,
+		"authorId": 37,
+		"publisherId": 37
+	},
+	{
+		"id": 38,
+		"title": "nunc",
+		"ISBN": "057327369-3",
+		"synopsis": "Vivamus vestibulum sagittis sapien.",
+		"genres": "proin",
+		"publicationYear": 2007,
+		"authorId": 38,
+		"publisherId": 38
+	},
+	{
+		"id": 39,
+		"title": "praesent",
+		"ISBN": "267842959-8",
+		"synopsis": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+		"genres": "tempor",
+		"publicationYear": 2005,
+		"authorId": 39,
+		"publisherId": 39
+	},
+	{
+		"id": 40,
+		"title": "duis",
+		"ISBN": "337388801-8",
+		"synopsis": "Duis consequat dui nec nisi volutpat eleifend.",
+		"genres": "interdum",
+		"publicationYear": 2018,
+		"authorId": 40,
+		"publisherId": 40
+	},
+	{
+		"id": 41,
+		"title": "porttitor",
+		"ISBN": "738712433-7",
+		"synopsis": "In hac habitasse platea dictumst.",
+		"genres": "nulla",
+		"publicationYear": 2001,
+		"authorId": 41,
+		"publisherId": 41
+	},
+	{
+		"id": 42,
+		"title": "ante",
+		"ISBN": "574947310-4",
+		"synopsis": "Etiam faucibus cursus urna.",
+		"genres": "blandit",
+		"publicationYear": 1980,
+		"authorId": 42,
+		"publisherId": 42
+	},
+	{
+		"id": 43,
+		"title": "vehicula",
+		"ISBN": "078487996-6",
+		"synopsis": "In congue.",
+		"genres": "augue",
+		"publicationYear": 1993,
+		"authorId": 43,
+		"publisherId": 43
+	},
+	{
+		"id": 44,
+		"title": "quam",
+		"ISBN": "343179256-1",
+		"synopsis": "Pellentesque at nulla.",
+		"genres": "leo",
+		"publicationYear": 1991,
+		"authorId": 44,
+		"publisherId": 44
+	},
+	{
+		"id": 45,
+		"title": "libero",
+		"ISBN": "482465318-5",
+		"synopsis": "Cras non velit nec nisi vulputate nonummy.",
+		"genres": "adipiscing",
+		"publicationYear": 2016,
+		"authorId": 45,
+		"publisherId": 45
+	},
+	{
+		"id": 46,
+		"title": "vestibulum",
+		"ISBN": "449016887-X",
+		"synopsis": "Cras pellentesque volutpat dui.",
+		"genres": "vestibulum",
+		"publicationYear": 2020,
+		"authorId": 46,
+		"publisherId": 46
+	},
+	{
+		"id": 47,
+		"title": "donec",
+		"ISBN": "703059236-0",
+		"synopsis": "Fusce consequat.",
+		"genres": "duis",
+		"publicationYear": 1981,
+		"authorId": 47,
+		"publisherId": 47
+	},
+	{
+		"id": 48,
+		"title": "vehicula",
+		"ISBN": "402573986-0",
+		"synopsis": "Nulla suscipit ligula in lacus.",
+		"genres": "sapien",
+		"publicationYear": 1986,
+		"authorId": 48,
+		"publisherId": 48
+	},
+	{
+		"id": 49,
+		"title": "volutpat",
+		"ISBN": "578781333-2",
+		"synopsis": "Donec quis orci eget orci vehicula condimentum.",
+		"genres": "lobortis",
+		"publicationYear": 2016,
+		"authorId": 49,
+		"publisherId": 49
+	},
+	{
+		"id": 50,
+		"title": "pede",
+		"ISBN": "131016807-5",
+		"synopsis": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+		"genres": "felis",
+		"publicationYear": 2008,
+		"authorId": 50,
+		"publisherId": 50
+	},
+	{
+		"id": 51,
+		"title": "dolor",
+		"ISBN": "113132016-6",
+		"synopsis": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+		"genres": "arcu",
+		"publicationYear": 2011,
+		"authorId": 51,
+		"publisherId": 51
+	},
+	{
+		"id": 52,
+		"title": "varius",
+		"ISBN": "451224621-5",
+		"synopsis": "In hac habitasse platea dictumst.",
+		"genres": "nulla",
+		"publicationYear": 1983,
+		"authorId": 52,
+		"publisherId": 52
+	},
+	{
+		"id": 53,
+		"title": "est",
+		"ISBN": "191876084-5",
+		"synopsis": "Praesent blandit.",
+		"genres": "congue",
+		"publicationYear": 1980,
+		"authorId": 53,
+		"publisherId": 53
+	},
+	{
+		"id": 54,
+		"title": "luctus",
+		"ISBN": "950017522-3",
+		"synopsis": "In hac habitasse platea dictumst.",
+		"genres": "dictumst",
+		"publicationYear": 2017,
+		"authorId": 54,
+		"publisherId": 54
+	},
+	{
+		"id": 55,
+		"title": "velit",
+		"ISBN": "530217518-5",
+		"synopsis": "Nulla facilisi.",
+		"genres": "faucibus",
+		"publicationYear": 2020,
+		"authorId": 55,
+		"publisherId": 55
+	},
+	{
+		"id": 56,
+		"title": "mattis",
+		"ISBN": "195188325-X",
+		"synopsis": "Vivamus vel nulla eget eros elementum pellentesque.",
+		"genres": "morbi",
+		"publicationYear": 1985,
+		"authorId": 56,
+		"publisherId": 56
+	},
+	{
+		"id": 57,
+		"title": "vestibulum",
+		"ISBN": "878242816-6",
+		"synopsis": "Nunc purus.",
+		"genres": "magnis",
+		"publicationYear": 1984,
+		"authorId": 57,
+		"publisherId": 57
+	},
+	{
+		"id": 58,
+		"title": "vehicula",
+		"ISBN": "430507601-2",
+		"synopsis": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+		"genres": "magna",
+		"publicationYear": 1991,
+		"authorId": 58,
+		"publisherId": 58
+	},
+	{
+		"id": 59,
+		"title": "eu",
+		"ISBN": "470444355-8",
+		"synopsis": "Duis ac nibh.",
+		"genres": "nulla",
+		"publicationYear": 1993,
+		"authorId": 59,
+		"publisherId": 59
+	},
+	{
+		"id": 60,
+		"title": "vehicula",
+		"ISBN": "547724166-7",
+		"synopsis": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+		"genres": "at",
+		"publicationYear": 1991,
+		"authorId": 60,
+		"publisherId": 60
+	},
+	{
+		"id": 61,
+		"title": "a",
+		"ISBN": "366473018-6",
+		"synopsis": "Quisque id justo sit amet sapien dignissim vestibulum.",
+		"genres": "justo",
+		"publicationYear": 2016,
+		"authorId": 61,
+		"publisherId": 61
+	},
+	{
+		"id": 62,
+		"title": "rutrum",
+		"ISBN": "878223507-4",
+		"synopsis": "Curabitur gravida nisi at nibh.",
+		"genres": "rhoncus",
+		"publicationYear": 2008,
+		"authorId": 62,
+		"publisherId": 62
+	},
+	{
+		"id": 63,
+		"title": "gravida",
+		"ISBN": "826290174-6",
+		"synopsis": "Donec posuere metus vitae ipsum.",
+		"genres": "sit",
+		"publicationYear": 2005,
+		"authorId": 63,
+		"publisherId": 63
+	},
+	{
+		"id": 64,
+		"title": "vitae",
+		"ISBN": "481275582-4",
+		"synopsis": "Etiam pretium iaculis justo.",
+		"genres": "quis",
+		"publicationYear": 1980,
+		"authorId": 64,
+		"publisherId": 64
+	},
+	{
+		"id": 65,
+		"title": "accumsan",
+		"ISBN": "664773561-5",
+		"synopsis": "Sed vel enim sit amet nunc viverra dapibus.",
+		"genres": "nulla",
+		"publicationYear": 2000,
+		"authorId": 65,
+		"publisherId": 65
+	},
+	{
+		"id": 66,
+		"title": "integer",
+		"ISBN": "223563349-8",
+		"synopsis": "Aliquam non mauris.",
+		"genres": "vel",
+		"publicationYear": 1992,
+		"authorId": 66,
+		"publisherId": 66
+	},
+	{
+		"id": 67,
+		"title": "blandit",
+		"ISBN": "629168248-6",
+		"synopsis": "Maecenas tincidunt lacus at velit.",
+		"genres": "sed",
+		"publicationYear": 1999,
+		"authorId": 67,
+		"publisherId": 67
+	},
+	{
+		"id": 68,
+		"title": "ante",
+		"ISBN": "563028716-8",
+		"synopsis": "Phasellus in felis.",
+		"genres": "tempus",
+		"publicationYear": 2004,
+		"authorId": 68,
+		"publisherId": 68
+	},
+	{
+		"id": 69,
+		"title": "pede",
+		"ISBN": "551303172-8",
+		"synopsis": "In hac habitasse platea dictumst.",
+		"genres": "integer",
+		"publicationYear": 2015,
+		"authorId": 69,
+		"publisherId": 69
+	},
+	{
+		"id": 70,
+		"title": "lectus",
+		"ISBN": "772044700-X",
+		"synopsis": "In congue.",
+		"genres": "dui",
+		"publicationYear": 2008,
+		"authorId": 70,
+		"publisherId": 70
+	},
+	{
+		"id": 71,
+		"title": "nunc",
+		"ISBN": "465252407-2",
+		"synopsis": "Curabitur convallis.",
+		"genres": "suspendisse",
+		"publicationYear": 2016,
+		"authorId": 71,
+		"publisherId": 71
+	},
+	{
+		"id": 72,
+		"title": "justo",
+		"ISBN": "170240074-3",
+		"synopsis": "Nullam varius.",
+		"genres": "duis",
+		"publicationYear": 2001,
+		"authorId": 72,
+		"publisherId": 72
+	},
+	{
+		"id": 73,
+		"title": "proin",
+		"ISBN": "222395357-3",
+		"synopsis": "In hac habitasse platea dictumst.",
+		"genres": "morbi",
+		"publicationYear": 2013,
+		"authorId": 73,
+		"publisherId": 73
+	},
+	{
+		"id": 74,
+		"title": "odio",
+		"ISBN": "436908371-0",
+		"synopsis": "Nulla ut erat id mauris vulputate elementum.",
+		"genres": "ut",
+		"publicationYear": 1997,
+		"authorId": 74,
+		"publisherId": 74
+	},
+	{
+		"id": 75,
+		"title": "amet",
+		"ISBN": "077141526-5",
+		"synopsis": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+		"genres": "odio",
+		"publicationYear": 2019,
+		"authorId": 75,
+		"publisherId": 75
+	},
+	{
+		"id": 76,
+		"title": "lobortis",
+		"ISBN": "506201534-0",
+		"synopsis": "Nulla suscipit ligula in lacus.",
+		"genres": "dis",
+		"publicationYear": 2020,
+		"authorId": 76,
+		"publisherId": 76
+	},
+	{
+		"id": 77,
+		"title": "pede",
+		"ISBN": "024448647-6",
+		"synopsis": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+		"genres": "platea",
+		"publicationYear": 2014,
+		"authorId": 77,
+		"publisherId": 77
+	},
+	{
+		"id": 78,
+		"title": "blandit",
+		"ISBN": "913876559-4",
+		"synopsis": "Praesent lectus.",
+		"genres": "nulla",
+		"publicationYear": 2008,
+		"authorId": 78,
+		"publisherId": 78
+	},
+	{
+		"id": 79,
+		"title": "leo",
+		"ISBN": "002447241-7",
+		"synopsis": "Praesent lectus.",
+		"genres": "lacinia",
+		"publicationYear": 2011,
+		"authorId": 79,
+		"publisherId": 79
+	},
+	{
+		"id": 80,
+		"title": "vulputate",
+		"ISBN": "712499927-8",
+		"synopsis": "Cras in purus eu magna vulputate luctus.",
+		"genres": "eget",
+		"publicationYear": 1988,
+		"authorId": 80,
+		"publisherId": 80
+	},
+	{
+		"id": 81,
+		"title": "mi",
+		"ISBN": "177951357-7",
+		"synopsis": "Morbi non quam nec dui luctus rutrum.",
+		"genres": "eu",
+		"publicationYear": 1994,
+		"authorId": 81,
+		"publisherId": 81
+	},
+	{
+		"id": 82,
+		"title": "amet",
+		"ISBN": "480027800-7",
+		"synopsis": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.",
+		"genres": "ut",
+		"publicationYear": 2006,
+		"authorId": 82,
+		"publisherId": 82
+	},
+	{
+		"id": 83,
+		"title": "sodales",
+		"ISBN": "635970860-4",
+		"synopsis": "Quisque id justo sit amet sapien dignissim vestibulum.",
+		"genres": "pede",
+		"publicationYear": 1993,
+		"authorId": 83,
+		"publisherId": 83
+	},
+	{
+		"id": 84,
+		"title": "volutpat",
+		"ISBN": "288066123-4",
+		"synopsis": "Pellentesque eget nunc.",
+		"genres": "rhoncus",
+		"publicationYear": 2018,
+		"authorId": 84,
+		"publisherId": 84
+	},
+	{
+		"id": 85,
+		"title": "arcu",
+		"ISBN": "070060708-0",
+		"synopsis": "In hac habitasse platea dictumst.",
+		"genres": "ultrices",
+		"publicationYear": 2010,
+		"authorId": 85,
+		"publisherId": 85
+	},
+	{
+		"id": 86,
+		"title": "eu",
+		"ISBN": "052378420-1",
+		"synopsis": "Duis ac nibh.",
+		"genres": "mauris",
+		"publicationYear": 1982,
+		"authorId": 86,
+		"publisherId": 86
+	},
+	{
+		"id": 87,
+		"title": "risus",
+		"ISBN": "752635747-5",
+		"synopsis": "Ut tellus.",
+		"genres": "nonummy",
+		"publicationYear": 1981,
+		"authorId": 87,
+		"publisherId": 87
+	},
+	{
+		"id": 88,
+		"title": "turpis",
+		"ISBN": "252623254-6",
+		"synopsis": "Morbi non quam nec dui luctus rutrum.",
+		"genres": "aliquet",
+		"publicationYear": 2017,
+		"authorId": 88,
+		"publisherId": 88
+	},
+	{
+		"id": 89,
+		"title": "blandit",
+		"ISBN": "426773871-8",
+		"synopsis": "Ut tellus.",
+		"genres": "et",
+		"publicationYear": 2007,
+		"authorId": 89,
+		"publisherId": 89
+	},
+	{
+		"id": 90,
+		"title": "curae",
+		"ISBN": "661162242-X",
+		"synopsis": "Suspendisse potenti.",
+		"genres": "a",
+		"publicationYear": 1990,
+		"authorId": 90,
+		"publisherId": 90
+	},
+	{
+		"id": 91,
+		"title": "nulla",
+		"ISBN": "779929924-X",
+		"synopsis": "In sagittis dui vel nisl.",
+		"genres": "ipsum",
+		"publicationYear": 2006,
+		"authorId": 91,
+		"publisherId": 91
+	},
+	{
+		"id": 92,
+		"title": "nunc",
+		"ISBN": "360623234-9",
+		"synopsis": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+		"genres": "vel",
+		"publicationYear": 1989,
+		"authorId": 92,
+		"publisherId": 92
+	},
+	{
+		"id": 93,
+		"title": "ante",
+		"ISBN": "447726124-1",
+		"synopsis": "Integer ac leo.",
+		"genres": "bibendum",
+		"publicationYear": 2018,
+		"authorId": 93,
+		"publisherId": 93
+	},
+	{
+		"id": 94,
+		"title": "justo",
+		"ISBN": "642806113-9",
+		"synopsis": "Nulla ac enim.",
+		"genres": "semper",
+		"publicationYear": 1993,
+		"authorId": 94,
+		"publisherId": 94
+	},
+	{
+		"id": 95,
+		"title": "tortor",
+		"ISBN": "364945517-X",
+		"synopsis": "Morbi vel lectus in quam fringilla rhoncus.",
+		"genres": "felis",
+		"publicationYear": 2014,
+		"authorId": 95,
+		"publisherId": 95
+	},
+	{
+		"id": 96,
+		"title": "posuere",
+		"ISBN": "942470422-4",
+		"synopsis": "Nulla tempus.",
+		"genres": "amet",
+		"publicationYear": 2020,
+		"authorId": 96,
+		"publisherId": 96
+	},
+	{
+		"id": 97,
+		"title": "turpis",
+		"ISBN": "604185900-1",
+		"synopsis": "Donec posuere metus vitae ipsum.",
+		"genres": "fusce",
+		"publicationYear": 1985,
+		"authorId": 97,
+		"publisherId": 97
+	},
+	{
+		"id": 98,
+		"title": "sollicitudin",
+		"ISBN": "606623046-8",
+		"synopsis": "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+		"genres": "libero",
+		"publicationYear": 1994,
+		"authorId": 98,
+		"publisherId": 98
+	},
+	{
+		"id": 99,
+		"title": "at",
+		"ISBN": "339685387-3",
+		"synopsis": "Donec semper sapien a libero.",
+		"genres": "lacus",
+		"publicationYear": 2001,
+		"authorId": 99,
+		"publisherId": 99
+	},
+	{
+		"id": 100,
+		"title": "in",
+		"ISBN": "138936583-2",
+		"synopsis": "Cras pellentesque volutpat dui.",
+		"genres": "sem",
+		"publicationYear": 1983,
+		"authorId": 100,
+		"publisherId": 100
+	}
+]
